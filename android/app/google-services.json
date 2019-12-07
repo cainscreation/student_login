@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "636618258250",
+    "firebase_url": "https://studentlogin-1c1bc.firebaseio.com",
+    "project_id": "studentlogin-1c1bc",
+    "storage_bucket": "studentlogin-1c1bc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:636618258250:android:1b67df7fa03711ffbcf3b3",
+        "android_client_info": {
+          "package_name": "com.friendly.student_login"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "636618258250-bn8h8seq13eh001982j1f4diu881bjic.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.friendly.student_login",
+            "certificate_hash": "0558f80b4d51bf7048508b0a75d238b68e7b5bc5"
+          }
+        },
+        {
+          "client_id": "636618258250-hohm4p69is8gmd2hi1p0ll9h4i1ti9f8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAO0mYIGCKz6osNd2qQKcLxFz-LrU_scpM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "636618258250-hohm4p69is8gmd2hi1p0ll9h4i1ti9f8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
